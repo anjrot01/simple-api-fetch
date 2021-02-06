@@ -1,0 +1,28 @@
+.container {
+  width: 100%;
+  margin: 40px;
+}
+.title {
+  text-align: center;
+  color: blue;
+}
+.btnContainer{
+  width: 700px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: row-reverse;
+}
+
+.btn {
+  width: 25%;
+  margin: 10px;
+  font-size: 25px;  
+}
+
+.counter {
+  text-align: center;
+  font-size: 45px;
+  color: blue;
+  padding: 25px;
+}

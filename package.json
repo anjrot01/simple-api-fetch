@@ -1,0 +1,25 @@
+{
+  "name": "react-whith-context-api",
+  "version": "1.0.0",
+  "description": "Boilertplate API dReact-next with context",
+  "main": "app.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anjrotDev/simple-movie-fetch.git"
+  },
+  "author": "Antonio Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.3",
+    "next": "^10.0.4",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.3",
+    "react-dom": "^17.0.1"
+  }
+}
