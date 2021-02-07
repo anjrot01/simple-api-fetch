@@ -7,7 +7,7 @@
 - Bootstrap
 
 TODO
-- create character page. 
+- create character page Component
 
 Enjoy it 😎
 
