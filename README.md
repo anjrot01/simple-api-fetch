@@ -8,6 +8,7 @@
 
 TODO
 - create character page Component
+- Create a new layout on movie page
 
 Enjoy it 😎
 
